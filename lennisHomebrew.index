@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
   <info>
-    <update version="1.0">
+    <name>Lennis Homebrew</name>
+    <description>Homebrew Content from our campaing</description>
+    <update version="0.0.2">
       <file name="lennisHomebrew.index" url="https://raw.githubusercontent.com/TeilzeitTodesengel/Lennis-Homebrew/master/lennisHomebrew.index" />
     </update>
   </info>
