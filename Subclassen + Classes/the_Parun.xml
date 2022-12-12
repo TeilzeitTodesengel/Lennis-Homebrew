@@ -6,7 +6,7 @@
         <p class="indent"><strong><em>The Parun.</em></strong> You can telepathically speak to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language. Also you can summon a psychic energy blade that you can wield. This blade can represent any weapon you want which doesn’t have the heavy trait. This weapon deals 1d8 psychic damage and the damage of one of your selected rites. This weapons attack and damage modifier equals you hemocraft modifier.</p>
     </description>
     <rules>
-    	<grant type="Archetype Feature" id="ID_LHBW_BLOODHUNTER_PARUN_PROFANE_SOUL_RITE_FOCUS" requirements="ID_DMSG_MMBH_ARCHETYPE_FEATURE_PROFANE_SOUL_OTHERWORLDLY_PATRON_PARUN" />
+    	<grant type="Archetype Feature" id="ID_LHBW_BLOODHUNTER_PARUN_PROFANE_SOUL_RITE_FOCUS" requirements="ID_LHBW_BLOODHUNTER_PARUN" />
     </rules>
     </append>
     <!--Appends the Revealed Arcana to the Blood Hunter-->
@@ -15,7 +15,7 @@
             <p class="indent"><strong><em>The Parun.</em></strong> You can cast Detect Thougts once using a pact magic spell slot. You can’t do so again until you finish a long rest.</p>
         </description>
         <rules>
-        	<grant type="Archetype Feature" id="ID_LHBW_BLOODHUNTER_PARUN_PROFANE_SOUL_REVEALED_ARCANA" requirements="ID_DMSG_MMBH_ARCHETYPE_FEATURE_PROFANE_SOUL_OTHERWORLDLY_PATRON_PARUN" />
+        	<grant type="Archetype Feature" id="ID_LHBW_BLOODHUNTER_PARUN_PROFANE_SOUL_REVEALED_ARCANA" requirements="ID_LHBW_BLOODHUNTER_PARUN" />
         </rules>
     </append>
     <!--Appends the Unsealed Arcana to the Blood Hunter-->
@@ -24,7 +24,7 @@
             <p class="indent"><strong><em>The Parun.</em></strong> You can cast Nondetection once without expending a spell slot. You can’t do so again until you finish a long rest.</p>
         </description>
         <rules>
-            <grant type="Archetype Feature" id="ID_LHBW_BLOODHUNTER_PARUN_PROFANE_SOUL_UNSEALED_ARCANA" requirements="ID_DMSG_MMBH_ARCHETYPE_FEATURE_PROFANE_SOUL_OTHERWORLDLY_PATRON_PARUN" />
+            <grant type="Archetype Feature" id="ID_LHBW_BLOODHUNTER_PARUN_PROFANE_SOUL_UNSEALED_ARCANA" requirements="ID_LHBW_BLOODHUNTER_PARUN" />
         </rules>
     </append>
     <!--Custom Otherworldly Patron-->
