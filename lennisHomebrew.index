@@ -9,7 +9,7 @@
   </info>
   <files>
     <!--Custom Source-->
-    <file name="source.xml" url="https://raw.githubusercontent.com/TeilzeitTodesengel/Lennis-Homebrew/master/source.xml">
+    <file name="source.xml" url="https://raw.githubusercontent.com/TeilzeitTodesengel/Lennis-Homebrew/master/source.xml" />
     <!--Homebrew Magic Items-->
     <file name="lennards_magic_items.xml" url="https://raw.githubusercontent.com/TeilzeitTodesengel/Lennis-Homebrew/master/LennisMagicItems/lennards_magic_items.xml" />
     <!--The Parun eldritch master-->
