@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <element name="Mantle of a foul Beast" type="Magic Item" source="Lennard's Homebrew" id="ID_LHBW_ARTEFACT_MANTLE">
+		<description>
+			<p>This mantle was made of leather, made from the skin of a once slayed foul beast. Stitched together by an apprentice, who has once been, the wearer can use it to shield himself or herself from some minor harm.</p>
+			<p><b>Effect: When donned as an Bonus Action it grants the user +1 AC</b></p>
+		</description>
+		<setters>
+				<set name="category">Wondrous Items</set>
+				<set name="cost" currency="gp">66</set>
+				<set name="weight" lb="12">12 lb.</set>
+				<set name="type">Wondrous Item</set>
+				<set name="rarity">Uncommon</set>
+		</setters>
+    </element>
+</elements>
