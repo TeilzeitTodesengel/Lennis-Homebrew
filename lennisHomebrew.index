@@ -2,7 +2,7 @@
 <index>
   <info>
     <update version="1.0">
-      <file name="lennisHomebrew.index" url="http://hosting.com/files/sample.index" />
+      <file name="lennisHomebrew.index" url="https://raw.githubusercontent.com/TeilzeitTodesengel/Lennis-Homebrew/master/lennisHomebrew.index" />
     </update>
   </info>
   <files>
