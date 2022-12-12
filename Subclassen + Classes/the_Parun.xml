@@ -29,7 +29,7 @@
     </append>
     <!--Custom Otherworldly Patron-->
     <element name="The Parun" type="Archetype Feature" source="Lennis Homebrew" id="ID_LHBW_BLOODHUNTER_PARUN">
-		<compendium display="false" />
+		<compendium display="true" />
 		<supports>Profane Soul Otherworldly Patron v2</supports>
 		<description>
 			<p> The oldest of the Spies. He has chosen you to be his champion and fight for him. </p>
@@ -41,7 +41,7 @@
 		</sheet>
 	</element>
     <!--Custom Rite Focus-->
-    <element name="Rite Focus, The Parun" type="Archetype Feature" source="The Parun" id="ID_LHBW_BLOODHUNTER_PARUN_PROFANE_SOUL_RITE_FOCUS">
+    <element name="Rite Focus, The Parun" type="Archetype Feature" source="Lennis Homebrew" id="ID_LHBW_BLOODHUNTER_PARUN_PROFANE_SOUL_RITE_FOCUS">
 		<compendium display="false" />
 		<description>
 			<p>You can telepathically speak to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language. Also you can summon a psychic energy blade that you can wield. This blade can represent any weapon you want which doesn’t have the heavy trait. This weapon deals 1d8 psychic damage and the damage of one of your selected rites. This weapons attack and damage modifier equals you hemocraft modifier.</p>
@@ -51,7 +51,7 @@
 		</sheet>
 	</element>
     <!--Custom Revealed Arcana-->
-    <element name="Revealed Arcana, The Parun" type="Archetype Feature" source="The Parun" id="ID_LHBW_BLOODHUNTER_PARUN_PROFANE_SOUL_REVEALED_ARCANA">
+    <element name="Revealed Arcana, The Parun" type="Archetype Feature" source="Lennis Homebrew" id="ID_LHBW_BLOODHUNTER_PARUN_PROFANE_SOUL_REVEALED_ARCANA">
 		<compendium display="false" />
 		<description>
 			<p>You can cast Dectect Thoughts once using a pact magic spell slot. You can’t do so again until you finish a long rest.</p>
@@ -64,7 +64,7 @@
 		</rules>
 	</element>
     <!--Custom Unsealed Arcana-->
-    <element name="Unsealed Arcana, The Parun" type="Archetype Feature" source="The Parun" id="ID_LHBW_BLOODHUNTER_PARUN_PROFANE_SOUL_UNSEALED_ARCANA">
+    <element name="Unsealed Arcana, The Parun" type="Archetype Feature" source="Lennis Homebrew" id="ID_LHBW_BLOODHUNTER_PARUN_PROFANE_SOUL_UNSEALED_ARCANA">
 		<compendium display="false" />
 		<description>
 			<p>You can cast Nondetection once without expending a spell slot. You can’t do so again until you finish a long rest.</p>
