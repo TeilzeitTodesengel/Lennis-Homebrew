@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.1">
+			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/mage-hand-press/source.xml" />
+		</update>
+	</info>
+	<element name="Lennis Homebrew" type="Source" source="Core" id="ID_LHBW_SOURCE_HOMEBREW">
+		<description>
+			<![CDATA[<p></p>]]>
+		</description>
+		<setters>
+			<set name="abbreviation">LHBW</set>
+			<set name="url">https://github.com/TeilzeitTodesengel/Lennis-Homebrew/</set>
+			<set name="author" url="http://github.com/TeilzeitTodesengel">Teilzeit Todesengel</set>
+			<set name="homebrew">true</set>
+		</setters>
+	</element>
+</elements>
