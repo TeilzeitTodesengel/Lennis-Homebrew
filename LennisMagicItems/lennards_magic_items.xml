@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
+<!--Sir Jorrens Mantel-->
     <element name="Mantle of a foul Beast" type="Magic Item" source="Lennis Homebrew" id="ID_LHBW_ARTEFACT_MANTLE">
 		<description>
 			<p>This mantle was made of leather, made from the skin of a once slayed foul beast. Stitched together by an apprentice, who has once been, the wearer can use it to shield himself or herself from some minor harm.</p>
