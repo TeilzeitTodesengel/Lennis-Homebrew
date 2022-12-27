@@ -14,4 +14,34 @@
 				<set name="rarity">Uncommon</set>
 		</setters>
     </element>
+	<!--Das erste Wächteramulett-->
+	<element name="The first Guardamulett" type="Magic Item" source="Lennis Homebrew" id="ID_LHBW_ARTEFACT_AMULETT_ONE">
+		<description>
+			<p>A golden amulet with an engraved skull. The skull is surroundet by three grooves, where one groove carries a perfect, deep green, emerald.</p>
+			<p><b>When first attached your constitution attribute is raised to 18. Once per long rest when you die you are revived in a burst of green light with 1 hp.</b></p>
+		</description>
+		<sheet usage="1/Long Rest">
+			<description level="8">Revives you once you are downed with 1 HP.</description>
+		</sheet>
+		<rules>
+			<stat name="constitution:score:set" value="18" bonus="base"/>
+		</rules>
+		<setters>
+			<set name="keywords">constitution</set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">150</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Legendary</set>
+		</setters>
+	</element>
+	<!--Schwäche-->
+	<!--Drow Heldenurne des Tageslichts-->
+	<!--Sange & Jasha-->
+	<!--Spiegelschuppen-->
+	<!--Energieschild-->
+	<!--Echte fette Stiefel-->
+	<!--Echte fetter Mantel-->
+	<!--Echte fetter Hut-->
+	<!--Echt fetter Gürtel-->
 </elements>

@@ -14,5 +14,7 @@
     <file name="lennards_magic_items.xml" url="https://raw.githubusercontent.com/TeilzeitTodesengel/Lennis-Homebrew/master/LennisMagicItems/lennards_magic_items.xml" />
     <!--The Parun eldritch master-->
     <file name="the_parun.xml" url="https://raw.githubusercontent.com/TeilzeitTodesengel/Lennis-Homebrew/master/Subclassen%20%2B%20Classes/the_Parun.xml" />
+    <!--Barbarenerweiterung-->
+    <file name="barbarenerweiterung.xml" url="https://raw.githubusercontent.com/TeilzeitTodesengel/Lennis-Homebrew/master/Subclassen%20%2B%20Classes/barbarenerweiterung.xml" />
   </files>
 </index>
